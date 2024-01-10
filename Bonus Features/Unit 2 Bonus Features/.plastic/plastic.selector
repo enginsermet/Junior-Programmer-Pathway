@@ -1,4 +1,0 @@
-repository "Unit2@enginsermet@cloud"
-  path "/"
-    br "/main"
-    co "/main"
